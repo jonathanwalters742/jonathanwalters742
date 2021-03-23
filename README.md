@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathanwalters742
+- 👋 Hey there! My name is Jonathan Walters.
 - 👀 I’m interested in ...Web Developement & Design
 - 🌱 I’m currently learning ...Laravel and continuing to work with web technologies
 - 💞️ I’m looking to collaborate on ...Design & Web Developement
